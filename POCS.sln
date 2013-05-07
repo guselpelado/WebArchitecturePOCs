@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webapi-security", "webapi-security\webapi-security.csproj", "{E2D60C83-7F04-4A65-B694-8F995A3841B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nh-stored-proc-calls", "nh-stored-proc-calls\nh-stored-proc-calls.csproj", "{FD0213B1-A837-43D2-91C6-AEE17C8213E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "localization", "localization\localization.csproj", "{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2D60C83-7F04-4A65-B694-8F995A3841B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D60C83-7F04-4A65-B694-8F995A3841B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D60C83-7F04-4A65-B694-8F995A3841B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D60C83-7F04-4A65-B694-8F995A3841B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0213B1-A837-43D2-91C6-AEE17C8213E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0213B1-A837-43D2-91C6-AEE17C8213E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0213B1-A837-43D2-91C6-AEE17C8213E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0213B1-A837-43D2-91C6-AEE17C8213E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

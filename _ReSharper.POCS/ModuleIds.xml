@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="E2D60C83-7F04-4A65-B694-8F995A3841B3" ModuleId="webapi-security" />
+  <Module PersistentId="FC94F771-6F2E-4ED8-AA5F-EDDB0266581E" ModuleId="localization" />
+  <Module PersistentId="FD0213B1-A837-43D2-91C6-AEE17C8213E4" ModuleId="nh-stored-proc-calls" />
+</Modules>

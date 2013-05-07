@@ -1,0 +1,29 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:Controllers/f:ValuesController.cs" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/f:Web.config" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:FilterConfig.cs" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/f:BasicAuthenticationIdentity.cs" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:WebApiConfig.cs" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:Filters/f:HttpsRequired.cs" caret="760" fromTop="28" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:RouteConfig.cs" caret="0" fromTop="0" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:Filters/f:BasicAuthenticationFilter.cs" caret="3873" fromTop="28" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/f:Global.asax.cs" caret="958" fromTop="28" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:BundleConfig.cs" caret="0" fromTop="0" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:UserProfileMap.cs" caret="93" fromTop="4" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:UserProfile.cs" caret="141" fromTop="9" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:Program.cs" caret="1057" fromTop="0" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:StoredProcCommandBuilder.cs" caret="0" fromTop="0" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:RouteConfig.cs" caret="611" fromTop="22" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:Filters/f:HttpsRequired.cs" caret="261" fromTop="6" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:App_Start/f:WebApiConfig.cs" caret="1138" fromTop="26" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/f:BasicAuthenticationIdentity.cs" caret="90" fromTop="4" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/d:Filters/f:BasicAuthenticationFilter.cs" caret="4456" fromTop="34" />
+    <File id="E2D60C83-7F04-4A65-B694-8F995A3841B3/f:Global.asax.cs" caret="958" fromTop="28" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:UserProfile.cs" caret="86" fromTop="6" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:UserProfileMap.cs" caret="93" fromTop="4" />
+    <File id="FD0213B1-A837-43D2-91C6-AEE17C8213E4/f:Program.cs" caret="2834" fromTop="33" />
+  </RecentEdits>
+</RecentFiles>
