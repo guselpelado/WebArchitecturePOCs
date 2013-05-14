@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nh-stored-proc-calls", "nh-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "localization", "localization\localization.csproj", "{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castle", "castle\castle.csproj", "{678D04EC-990B-4F0E-BFC7-A0EE5A25D1FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "castle-mvc4", "castle-mvc4\castle-mvc4.csproj", "{A533D0EB-2D22-41CA-9CB1-AED05DCFA200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +29,14 @@ Global
 		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC94F771-6F2E-4ED8-AA5F-EDDB0266581E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{678D04EC-990B-4F0E-BFC7-A0EE5A25D1FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678D04EC-990B-4F0E-BFC7-A0EE5A25D1FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678D04EC-990B-4F0E-BFC7-A0EE5A25D1FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678D04EC-990B-4F0E-BFC7-A0EE5A25D1FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A533D0EB-2D22-41CA-9CB1-AED05DCFA200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A533D0EB-2D22-41CA-9CB1-AED05DCFA200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A533D0EB-2D22-41CA-9CB1-AED05DCFA200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A533D0EB-2D22-41CA-9CB1-AED05DCFA200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

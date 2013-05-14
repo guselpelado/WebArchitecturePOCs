@@ -1,0 +1,11 @@
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\castle.exe
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\castle.pdb
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\Castle.Core.dll
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\Castle.Windsor.dll
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\Castle.Core.xml
+C:\eTime\WebArchitecturePOCs\castle\bin\Debug\Castle.Windsor.xml
+C:\eTime\WebArchitecturePOCs\castle\obj\Debug\castle.csprojResolveAssemblyReference.cache
+C:\eTime\WebArchitecturePOCs\castle\obj\Debug\castle.exe
+C:\eTime\WebArchitecturePOCs\castle\obj\Debug\castle.pdb
+C:\WebArchitecturePOCs\castle\obj\Debug\castle.exe
+C:\WebArchitecturePOCs\castle\obj\Debug\castle.pdb
